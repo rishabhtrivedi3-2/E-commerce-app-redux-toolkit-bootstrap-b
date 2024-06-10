@@ -31,7 +31,7 @@ function Api() {
             <div className="text-center fs-2   ">
               <img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_GN_tr2L3gQITUfR7DXjkPLh4NK9ormMdFM2GqP20UU90K7reYqtN6V3cLgCS-AWFl8&usqp=CAU"
-                className="w-full h-60  mx-auto"
+                className="w-full h-50  mx-auto"
               />
             </div>
             <div className="carousel-item">
